@@ -1,0 +1,1 @@
+G:\workspace\Unity\HoloTutorial240\Sol\SharedHolograms\SharedHolograms.csproj;x86

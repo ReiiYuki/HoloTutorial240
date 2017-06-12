@@ -579,7 +579,7 @@ PlayerSettings:
   metroCertificatePassword: 
   metroCertificateSubject: Microsoft Corporation
   metroCertificateIssuer: Microsoft Corporation
-  metroCertificateNotAfter: 002b8105d4c3d201
+  metroCertificateNotAfter: 001ef8124002d401
   metroApplicationDescription: SharedHolograms
   wsaImages: {}
   metroTileShortName: 
